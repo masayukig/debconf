@@ -9,7 +9,10 @@ URL
 idea
 ----
 
-* Debian on Small Cheap Personal Cloud
+* Building a Small Cheap Personal Cloud
+Who is my audience?
+What will they get out of it?
+What will you cover?
 
 
 LICENSE
