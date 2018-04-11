@@ -10,9 +10,21 @@ idea
 ----
 
 * Building a Small Cheap Personal Cloud
-Who is my audience?
-What will they get out of it?
-What will you cover?
+
+  * Who is my audience?
+    A personal cloud user who wants to have own cheap cloud
+    with using debian.
+* What will they get out of it?
+
+  * They will get to know how to build a personal small cloud by
+    cheap.
+* What will you cover?
+
+  * I'll cover
+
+    * Hardware selection, and how to get them
+    * How to deploy OpenStack cloud
+    * Issues and future work
 
 
 LICENSE
